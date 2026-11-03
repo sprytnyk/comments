@@ -1,0 +1,4 @@
+{
+  "origins": ["https://sprytnyk.dev"],
+  "originsRegex": ["http://localhost:[0-9]+"]
+}
